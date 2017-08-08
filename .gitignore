@@ -1,0 +1,9 @@
+.idea/
+classes/
+tcp-client/src/test
+tcp-server/src/test
+tcp-client/target
+tcp-server/target
+tcp-client/src/main/resources/
+tcp-server/src/main/resources/
+*.iml
